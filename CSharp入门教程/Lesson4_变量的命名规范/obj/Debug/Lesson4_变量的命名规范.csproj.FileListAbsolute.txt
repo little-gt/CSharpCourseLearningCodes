@@ -1,0 +1,6 @@
+C:\Users\小德\Desktop\CSharp入门教程\Lesson4_变量的命名规范\bin\Debug\Lesson4_变量的命名规范.exe.config
+C:\Users\小德\Desktop\CSharp入门教程\Lesson4_变量的命名规范\bin\Debug\Lesson4_变量的命名规范.exe
+C:\Users\小德\Desktop\CSharp入门教程\Lesson4_变量的命名规范\bin\Debug\Lesson4_变量的命名规范.pdb
+C:\Users\小德\Desktop\CSharp入门教程\Lesson4_变量的命名规范\obj\Debug\Lesson4_变量的命名规范.csproj.CoreCompileInputs.cache
+C:\Users\小德\Desktop\CSharp入门教程\Lesson4_变量的命名规范\obj\Debug\Lesson4_变量的命名规范.exe
+C:\Users\小德\Desktop\CSharp入门教程\Lesson4_变量的命名规范\obj\Debug\Lesson4_变量的命名规范.pdb

@@ -1,0 +1,6 @@
+C:\Users\小德\Desktop\CSharp入门教程\测试项目\bin\Release\测试项目.exe.config
+C:\Users\小德\Desktop\CSharp入门教程\测试项目\bin\Release\测试项目.exe
+C:\Users\小德\Desktop\CSharp入门教程\测试项目\bin\Release\测试项目.pdb
+C:\Users\小德\Desktop\CSharp入门教程\测试项目\obj\Release\测试项目.csproj.CoreCompileInputs.cache
+C:\Users\小德\Desktop\CSharp入门教程\测试项目\obj\Release\测试项目.exe
+C:\Users\小德\Desktop\CSharp入门教程\测试项目\obj\Release\测试项目.pdb

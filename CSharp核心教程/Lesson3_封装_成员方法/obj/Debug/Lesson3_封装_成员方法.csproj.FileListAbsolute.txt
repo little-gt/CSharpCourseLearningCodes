@@ -1,0 +1,14 @@
+C:\Users\小德\Desktop\CSharp核心教程\Lesson3_封装_成员方法\bin\Debug\Lesson3_封装_成员方法.exe.config
+C:\Users\小德\Desktop\CSharp核心教程\Lesson3_封装_成员方法\bin\Debug\Lesson3_封装_成员方法.exe
+C:\Users\小德\Desktop\CSharp核心教程\Lesson3_封装_成员方法\bin\Debug\Lesson3_封装_成员方法.pdb
+C:\Users\小德\Desktop\CSharp核心教程\Lesson3_封装_成员方法\obj\Debug\Lesson3_封装_成员方法.csproj.AssemblyReference.cache
+C:\Users\小德\Desktop\CSharp核心教程\Lesson3_封装_成员方法\obj\Debug\Lesson3_封装_成员方法.csproj.CoreCompileInputs.cache
+C:\Users\小德\Desktop\CSharp核心教程\Lesson3_封装_成员方法\obj\Debug\Lesson3_封装_成员方法.exe
+C:\Users\小德\Desktop\CSharp核心教程\Lesson3_封装_成员方法\obj\Debug\Lesson3_封装_成员方法.pdb
+C:\Users\小德\OneDrive\工程\CSharp工程\CSharp核心教程\Lesson3_封装_成员方法\bin\Debug\Lesson3_封装_成员方法.exe.config
+C:\Users\小德\OneDrive\工程\CSharp工程\CSharp核心教程\Lesson3_封装_成员方法\bin\Debug\Lesson3_封装_成员方法.exe
+C:\Users\小德\OneDrive\工程\CSharp工程\CSharp核心教程\Lesson3_封装_成员方法\bin\Debug\Lesson3_封装_成员方法.pdb
+C:\Users\小德\OneDrive\工程\CSharp工程\CSharp核心教程\Lesson3_封装_成员方法\obj\Debug\Lesson3_封装_成员方法.csproj.AssemblyReference.cache
+C:\Users\小德\OneDrive\工程\CSharp工程\CSharp核心教程\Lesson3_封装_成员方法\obj\Debug\Lesson3_封装_成员方法.csproj.CoreCompileInputs.cache
+C:\Users\小德\OneDrive\工程\CSharp工程\CSharp核心教程\Lesson3_封装_成员方法\obj\Debug\Lesson3_封装_成员方法.exe
+C:\Users\小德\OneDrive\工程\CSharp工程\CSharp核心教程\Lesson3_封装_成员方法\obj\Debug\Lesson3_封装_成员方法.pdb

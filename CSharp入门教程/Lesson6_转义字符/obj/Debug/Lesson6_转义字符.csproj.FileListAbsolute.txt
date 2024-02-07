@@ -1,0 +1,7 @@
+C:\Users\小德\Desktop\CSharp入门教程\Lesson6_转义字符\obj\Debug\Lesson6_转义字符.csproj.AssemblyReference.cache
+C:\Users\小德\Desktop\CSharp入门教程\Lesson6_转义字符\obj\Debug\Lesson6_转义字符.csproj.CoreCompileInputs.cache
+C:\Users\小德\Desktop\CSharp入门教程\Lesson6_转义字符\bin\Debug\Lesson6_转义字符.exe.config
+C:\Users\小德\Desktop\CSharp入门教程\Lesson6_转义字符\bin\Debug\Lesson6_转义字符.exe
+C:\Users\小德\Desktop\CSharp入门教程\Lesson6_转义字符\bin\Debug\Lesson6_转义字符.pdb
+C:\Users\小德\Desktop\CSharp入门教程\Lesson6_转义字符\obj\Debug\Lesson6_转义字符.exe
+C:\Users\小德\Desktop\CSharp入门教程\Lesson6_转义字符\obj\Debug\Lesson6_转义字符.pdb

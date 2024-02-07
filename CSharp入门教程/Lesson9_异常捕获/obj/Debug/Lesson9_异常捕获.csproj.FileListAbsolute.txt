@@ -1,0 +1,7 @@
+C:\Users\小德\Desktop\CSharp入门教程\Lesson9_异常捕获\bin\Debug\Lesson9_异常捕获.exe.config
+C:\Users\小德\Desktop\CSharp入门教程\Lesson9_异常捕获\bin\Debug\Lesson9_异常捕获.exe
+C:\Users\小德\Desktop\CSharp入门教程\Lesson9_异常捕获\bin\Debug\Lesson9_异常捕获.pdb
+C:\Users\小德\Desktop\CSharp入门教程\Lesson9_异常捕获\obj\Debug\Lesson9_异常捕获.csproj.AssemblyReference.cache
+C:\Users\小德\Desktop\CSharp入门教程\Lesson9_异常捕获\obj\Debug\Lesson9_异常捕获.csproj.CoreCompileInputs.cache
+C:\Users\小德\Desktop\CSharp入门教程\Lesson9_异常捕获\obj\Debug\Lesson9_异常捕获.exe
+C:\Users\小德\Desktop\CSharp入门教程\Lesson9_异常捕获\obj\Debug\Lesson9_异常捕获.pdb

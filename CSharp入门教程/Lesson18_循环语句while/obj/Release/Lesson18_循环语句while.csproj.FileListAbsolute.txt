@@ -1,0 +1,7 @@
+C:\Users\小德\Desktop\CSharp入门教程\Lesson18_循环语句while\bin\Release\Lesson18_循环语句while.exe.config
+C:\Users\小德\Desktop\CSharp入门教程\Lesson18_循环语句while\bin\Release\Lesson18_循环语句while.exe
+C:\Users\小德\Desktop\CSharp入门教程\Lesson18_循环语句while\bin\Release\Lesson18_循环语句while.pdb
+C:\Users\小德\Desktop\CSharp入门教程\Lesson18_循环语句while\obj\Release\Lesson18_循环语句while.csproj.CoreCompileInputs.cache
+C:\Users\小德\Desktop\CSharp入门教程\Lesson18_循环语句while\obj\Release\Lesson18_循环语句while.exe
+C:\Users\小德\Desktop\CSharp入门教程\Lesson18_循环语句while\obj\Release\Lesson18_循环语句while.pdb
+C:\Users\小德\Desktop\CSharp入门教程\Lesson18_循环语句while\obj\Release\Lesson18_循环语句while.csproj.AssemblyReference.cache

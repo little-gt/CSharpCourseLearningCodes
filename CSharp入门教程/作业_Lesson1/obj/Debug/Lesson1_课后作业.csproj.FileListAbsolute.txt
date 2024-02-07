@@ -1,0 +1,7 @@
+C:\Users\小德\Desktop\CSharp入门教程\Lesson1_课后作业\bin\Debug\Lesson1_课后作业.exe.config
+C:\Users\小德\Desktop\CSharp入门教程\Lesson1_课后作业\bin\Debug\Lesson1_课后作业.exe
+C:\Users\小德\Desktop\CSharp入门教程\Lesson1_课后作业\bin\Debug\Lesson1_课后作业.pdb
+C:\Users\小德\Desktop\CSharp入门教程\Lesson1_课后作业\obj\Debug\Lesson1_课后作业.csproj.AssemblyReference.cache
+C:\Users\小德\Desktop\CSharp入门教程\Lesson1_课后作业\obj\Debug\Lesson1_课后作业.csproj.CoreCompileInputs.cache
+C:\Users\小德\Desktop\CSharp入门教程\Lesson1_课后作业\obj\Debug\Lesson1_课后作业.exe
+C:\Users\小德\Desktop\CSharp入门教程\Lesson1_课后作业\obj\Debug\Lesson1_课后作业.pdb

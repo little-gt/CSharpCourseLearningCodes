@@ -1,0 +1,7 @@
+C:\Users\小德\Desktop\CSharp核心教程\Lesson5_成员属性\bin\Debug\Lesson5_成员属性.exe.config
+C:\Users\小德\Desktop\CSharp核心教程\Lesson5_成员属性\bin\Debug\Lesson5_成员属性.exe
+C:\Users\小德\Desktop\CSharp核心教程\Lesson5_成员属性\bin\Debug\Lesson5_成员属性.pdb
+C:\Users\小德\Desktop\CSharp核心教程\Lesson5_成员属性\obj\Debug\Lesson5_成员属性.csproj.AssemblyReference.cache
+C:\Users\小德\Desktop\CSharp核心教程\Lesson5_成员属性\obj\Debug\Lesson5_成员属性.csproj.CoreCompileInputs.cache
+C:\Users\小德\Desktop\CSharp核心教程\Lesson5_成员属性\obj\Debug\Lesson5_成员属性.exe
+C:\Users\小德\Desktop\CSharp核心教程\Lesson5_成员属性\obj\Debug\Lesson5_成员属性.pdb

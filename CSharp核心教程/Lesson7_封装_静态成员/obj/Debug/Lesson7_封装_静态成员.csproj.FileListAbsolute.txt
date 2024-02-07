@@ -1,0 +1,7 @@
+C:\Users\小德\OneDrive\工程\CSharp工程\CSharp核心教程\Lesson7_封装_静态成员\bin\Debug\Lesson7_封装_静态成员.exe.config
+C:\Users\小德\OneDrive\工程\CSharp工程\CSharp核心教程\Lesson7_封装_静态成员\bin\Debug\Lesson7_封装_静态成员.exe
+C:\Users\小德\OneDrive\工程\CSharp工程\CSharp核心教程\Lesson7_封装_静态成员\bin\Debug\Lesson7_封装_静态成员.pdb
+C:\Users\小德\OneDrive\工程\CSharp工程\CSharp核心教程\Lesson7_封装_静态成员\obj\Debug\Lesson7_封装_静态成员.csproj.AssemblyReference.cache
+C:\Users\小德\OneDrive\工程\CSharp工程\CSharp核心教程\Lesson7_封装_静态成员\obj\Debug\Lesson7_封装_静态成员.csproj.CoreCompileInputs.cache
+C:\Users\小德\OneDrive\工程\CSharp工程\CSharp核心教程\Lesson7_封装_静态成员\obj\Debug\Lesson7_封装_静态成员.exe
+C:\Users\小德\OneDrive\工程\CSharp工程\CSharp核心教程\Lesson7_封装_静态成员\obj\Debug\Lesson7_封装_静态成员.pdb

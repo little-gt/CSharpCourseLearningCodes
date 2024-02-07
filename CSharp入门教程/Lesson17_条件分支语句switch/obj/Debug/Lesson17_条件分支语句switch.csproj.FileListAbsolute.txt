@@ -1,0 +1,7 @@
+C:\Users\小德\Desktop\CSharp入门教程\Lesson17_条件分支语句switch\bin\Debug\Lesson17_条件分支语句switch.exe.config
+C:\Users\小德\Desktop\CSharp入门教程\Lesson17_条件分支语句switch\bin\Debug\Lesson17_条件分支语句switch.exe
+C:\Users\小德\Desktop\CSharp入门教程\Lesson17_条件分支语句switch\bin\Debug\Lesson17_条件分支语句switch.pdb
+C:\Users\小德\Desktop\CSharp入门教程\Lesson17_条件分支语句switch\obj\Debug\Lesson17_条件分支语句switch.csproj.AssemblyReference.cache
+C:\Users\小德\Desktop\CSharp入门教程\Lesson17_条件分支语句switch\obj\Debug\Lesson17_条件分支语句switch.csproj.CoreCompileInputs.cache
+C:\Users\小德\Desktop\CSharp入门教程\Lesson17_条件分支语句switch\obj\Debug\Lesson17_条件分支语句switch.exe
+C:\Users\小德\Desktop\CSharp入门教程\Lesson17_条件分支语句switch\obj\Debug\Lesson17_条件分支语句switch.pdb

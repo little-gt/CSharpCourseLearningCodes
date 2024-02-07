@@ -1,0 +1,7 @@
+C:\Users\小德\Desktop\CSharp入门教程\Lesson2_课后作业-变量\bin\Debug\Lesson2_作业-变量.exe.config
+C:\Users\小德\Desktop\CSharp入门教程\Lesson2_课后作业-变量\bin\Debug\Lesson2_作业-变量.exe
+C:\Users\小德\Desktop\CSharp入门教程\Lesson2_课后作业-变量\bin\Debug\Lesson2_作业-变量.pdb
+C:\Users\小德\Desktop\CSharp入门教程\Lesson2_课后作业-变量\obj\Debug\作业_Lesson2.csproj.AssemblyReference.cache
+C:\Users\小德\Desktop\CSharp入门教程\Lesson2_课后作业-变量\obj\Debug\作业_Lesson2.csproj.CoreCompileInputs.cache
+C:\Users\小德\Desktop\CSharp入门教程\Lesson2_课后作业-变量\obj\Debug\Lesson2_作业-变量.exe
+C:\Users\小德\Desktop\CSharp入门教程\Lesson2_课后作业-变量\obj\Debug\Lesson2_作业-变量.pdb

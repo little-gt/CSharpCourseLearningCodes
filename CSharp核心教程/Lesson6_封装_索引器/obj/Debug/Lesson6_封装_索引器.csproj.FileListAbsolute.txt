@@ -1,0 +1,7 @@
+C:\Users\小德\OneDrive\工程\CSharp工程\CSharp核心教程\Lesson6_封装_索引器\bin\Debug\Lesson6_封装_索引器.exe.config
+C:\Users\小德\OneDrive\工程\CSharp工程\CSharp核心教程\Lesson6_封装_索引器\bin\Debug\Lesson6_封装_索引器.exe
+C:\Users\小德\OneDrive\工程\CSharp工程\CSharp核心教程\Lesson6_封装_索引器\bin\Debug\Lesson6_封装_索引器.pdb
+C:\Users\小德\OneDrive\工程\CSharp工程\CSharp核心教程\Lesson6_封装_索引器\obj\Debug\Lesson6_封装_索引器.csproj.AssemblyReference.cache
+C:\Users\小德\OneDrive\工程\CSharp工程\CSharp核心教程\Lesson6_封装_索引器\obj\Debug\Lesson6_封装_索引器.csproj.CoreCompileInputs.cache
+C:\Users\小德\OneDrive\工程\CSharp工程\CSharp核心教程\Lesson6_封装_索引器\obj\Debug\Lesson6_封装_索引器.exe
+C:\Users\小德\OneDrive\工程\CSharp工程\CSharp核心教程\Lesson6_封装_索引器\obj\Debug\Lesson6_封装_索引器.pdb

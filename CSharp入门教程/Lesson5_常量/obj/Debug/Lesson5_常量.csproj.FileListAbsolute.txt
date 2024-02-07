@@ -1,0 +1,7 @@
+C:\Users\小德\Desktop\CSharp入门教程\Lesson5_常量\obj\Debug\Lesson5_常量.csproj.AssemblyReference.cache
+C:\Users\小德\Desktop\CSharp入门教程\Lesson5_常量\obj\Debug\Lesson5_常量.csproj.CoreCompileInputs.cache
+C:\Users\小德\Desktop\CSharp入门教程\Lesson5_常量\bin\Debug\Lesson5_常量.exe.config
+C:\Users\小德\Desktop\CSharp入门教程\Lesson5_常量\bin\Debug\Lesson5_常量.exe
+C:\Users\小德\Desktop\CSharp入门教程\Lesson5_常量\bin\Debug\Lesson5_常量.pdb
+C:\Users\小德\Desktop\CSharp入门教程\Lesson5_常量\obj\Debug\Lesson5_常量.exe
+C:\Users\小德\Desktop\CSharp入门教程\Lesson5_常量\obj\Debug\Lesson5_常量.pdb

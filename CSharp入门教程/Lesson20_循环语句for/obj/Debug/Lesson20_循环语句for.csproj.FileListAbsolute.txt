@@ -1,0 +1,7 @@
+C:\Users\小德\Desktop\CSharp入门教程\Lesson20_循环语句for\bin\Debug\Lesson20_循环语句for.exe.config
+C:\Users\小德\Desktop\CSharp入门教程\Lesson20_循环语句for\bin\Debug\Lesson20_循环语句for.exe
+C:\Users\小德\Desktop\CSharp入门教程\Lesson20_循环语句for\bin\Debug\Lesson20_循环语句for.pdb
+C:\Users\小德\Desktop\CSharp入门教程\Lesson20_循环语句for\obj\Debug\Lesson20_循环语句for.csproj.CoreCompileInputs.cache
+C:\Users\小德\Desktop\CSharp入门教程\Lesson20_循环语句for\obj\Debug\Lesson20_循环语句for.exe
+C:\Users\小德\Desktop\CSharp入门教程\Lesson20_循环语句for\obj\Debug\Lesson20_循环语句for.pdb
+C:\Users\小德\Desktop\CSharp入门教程\Lesson20_循环语句for\obj\Debug\Lesson20_循环语句for.csproj.AssemblyReference.cache

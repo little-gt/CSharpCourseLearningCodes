@@ -1,0 +1,7 @@
+C:\Users\小德\Desktop\CSharp基础教程\CSharp入门\Lesson1_枚举\bin\Debug\Lesson1_枚举.exe.config
+C:\Users\小德\Desktop\CSharp基础教程\CSharp入门\Lesson1_枚举\bin\Debug\Lesson1_枚举.exe
+C:\Users\小德\Desktop\CSharp基础教程\CSharp入门\Lesson1_枚举\bin\Debug\Lesson1_枚举.pdb
+C:\Users\小德\Desktop\CSharp基础教程\CSharp入门\Lesson1_枚举\obj\Debug\Lesson1_枚举.csproj.AssemblyReference.cache
+C:\Users\小德\Desktop\CSharp基础教程\CSharp入门\Lesson1_枚举\obj\Debug\Lesson1_枚举.csproj.CoreCompileInputs.cache
+C:\Users\小德\Desktop\CSharp基础教程\CSharp入门\Lesson1_枚举\obj\Debug\Lesson1_枚举.exe
+C:\Users\小德\Desktop\CSharp基础教程\CSharp入门\Lesson1_枚举\obj\Debug\Lesson1_枚举.pdb

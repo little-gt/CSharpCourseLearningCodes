@@ -1,0 +1,7 @@
+C:\Users\小德\Desktop\CSharp入门教程\作业_Lesson11\bin\Debug\作业_Lesson11.exe.config
+C:\Users\小德\Desktop\CSharp入门教程\作业_Lesson11\bin\Debug\作业_Lesson11.exe
+C:\Users\小德\Desktop\CSharp入门教程\作业_Lesson11\bin\Debug\作业_Lesson11.pdb
+C:\Users\小德\Desktop\CSharp入门教程\作业_Lesson11\obj\Debug\作业_Lesson11.csproj.AssemblyReference.cache
+C:\Users\小德\Desktop\CSharp入门教程\作业_Lesson11\obj\Debug\作业_Lesson11.csproj.CoreCompileInputs.cache
+C:\Users\小德\Desktop\CSharp入门教程\作业_Lesson11\obj\Debug\作业_Lesson11.exe
+C:\Users\小德\Desktop\CSharp入门教程\作业_Lesson11\obj\Debug\作业_Lesson11.pdb

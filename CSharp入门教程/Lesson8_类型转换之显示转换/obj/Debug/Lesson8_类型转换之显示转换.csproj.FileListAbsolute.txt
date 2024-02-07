@@ -1,0 +1,7 @@
+C:\Users\小德\Desktop\CSharp入门教程\Lesson8_类型转换之显示转换\bin\Debug\Lesson8_类型转换之显示转换.exe.config
+C:\Users\小德\Desktop\CSharp入门教程\Lesson8_类型转换之显示转换\bin\Debug\Lesson8_类型转换之显示转换.exe
+C:\Users\小德\Desktop\CSharp入门教程\Lesson8_类型转换之显示转换\bin\Debug\Lesson8_类型转换之显示转换.pdb
+C:\Users\小德\Desktop\CSharp入门教程\Lesson8_类型转换之显示转换\obj\Debug\Lesson8_类型转换之显示转换.csproj.AssemblyReference.cache
+C:\Users\小德\Desktop\CSharp入门教程\Lesson8_类型转换之显示转换\obj\Debug\Lesson8_类型转换之显示转换.csproj.CoreCompileInputs.cache
+C:\Users\小德\Desktop\CSharp入门教程\Lesson8_类型转换之显示转换\obj\Debug\Lesson8_类型转换之显示转换.exe
+C:\Users\小德\Desktop\CSharp入门教程\Lesson8_类型转换之显示转换\obj\Debug\Lesson8_类型转换之显示转换.pdb
