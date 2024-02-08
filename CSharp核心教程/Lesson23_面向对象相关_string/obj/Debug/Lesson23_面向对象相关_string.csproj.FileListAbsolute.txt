@@ -1,0 +1,2 @@
+C:\Users\小德\OneDrive\工程\CSharp工程\CSharp核心教程\Lesson23_面向对象相关_string\obj\Debug\Lesson23_面向对象相关_string.csproj.AssemblyReference.cache
+C:\Users\小德\OneDrive\工程\CSharp工程\CSharp核心教程\Lesson23_面向对象相关_string\obj\Debug\Lesson23_面向对象相关_string.csproj.CoreCompileInputs.cache
