@@ -1,0 +1,7 @@
+C:\Users\小德\OneDrive\工程\CSharp工程\CSharp核心教程\作业_Lesson24\bin\Debug\作业_Lesson24.exe.config
+C:\Users\小德\OneDrive\工程\CSharp工程\CSharp核心教程\作业_Lesson24\bin\Debug\作业_Lesson24.exe
+C:\Users\小德\OneDrive\工程\CSharp工程\CSharp核心教程\作业_Lesson24\bin\Debug\作业_Lesson24.pdb
+C:\Users\小德\OneDrive\工程\CSharp工程\CSharp核心教程\作业_Lesson24\obj\Debug\作业_Lesson24.csproj.AssemblyReference.cache
+C:\Users\小德\OneDrive\工程\CSharp工程\CSharp核心教程\作业_Lesson24\obj\Debug\作业_Lesson24.csproj.CoreCompileInputs.cache
+C:\Users\小德\OneDrive\工程\CSharp工程\CSharp核心教程\作业_Lesson24\obj\Debug\作业_Lesson24.exe
+C:\Users\小德\OneDrive\工程\CSharp工程\CSharp核心教程\作业_Lesson24\obj\Debug\作业_Lesson24.pdb

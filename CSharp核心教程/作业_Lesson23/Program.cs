@@ -188,11 +188,29 @@ namespace ConsoleDraw
 					while (true)
 					{
 						selKey = Console.ReadKey(true).KeyChar;
-						if (selKey == 'w' || selKey == 's' || selKey == 'e')
+						if (selKey == 'w' || selKey == 'W')
 						{
-							break;
+							if (selectedOption <= 0)
+							{
+								selectedOption = 0;
+							}
+							else
+							{
+								break;
+							}
 						}
-						if (selKey == 'W' || selKey == 'S' || selKey == 'E')
+						if (selKey == 's' || selKey == 'S')
+						{
+							if (selectedOption >= itemMenu.Length)
+							{
+								selectedOption = itemMenu.Length;
+							}
+							else
+							{
+								break;
+							}
+						}
+						if (selKey == 'e' || selKey == 'E')
 						{
 							break;
 						}
@@ -204,29 +222,13 @@ namespace ConsoleDraw
 						case 'W':
 						case 'w':
 							// 向上选择 ( 选中的序号减少 )
-							if (selectedOption <= 0)
-							{
-								selectedOption = 0;
-								break;
-							}
-							else
-							{
 								selectedOption -= 1;
 								break;
-							}
 						case 'S':
 						case 's':
 							// 向下选择 ( 选中的序号增加 )
-							if (selectedOption >= itemMenu.Length)
-							{
-								selectedOption = itemMenu.Length;
-								break;
-							}
-							else
-							{
 								selectedOption += 1;
 								break;
-							}
 						case 'E':
 						case 'e':
 							return selectedOption;
@@ -675,7 +677,7 @@ namespace 作业_Lesson23
 			} while (isLoop);
 			#endregion
 
-			#region 知识点 3 | String和string、Int32和int、Int16和short、Int64和long他们的区别是什么？
+			#region 习题 3 | String和string、Int32和int、Int16和short、Int64和long他们的区别是什么？
 			Draw.Question.Introduction(3, "String和string、Int32和int、Int16和short、Int64和long他们的区别是什么？");
 			isLoop = true;
 			do
@@ -707,6 +709,15 @@ namespace 作业_Lesson23
 					break;
 				}
 			} while (isLoop);
+			#endregion
+
+			#region 习题 4 | 下面这段代码，分配了多少个新的堆空间？
+			Draw.Question.Introduction(4, "下面这段代码，分配了多少个新的堆空间？\nstring str = null;\nstr = \"123\";\nstring str2 = str;\nstr2 = \"321\";\nstr2 += \"123\";");
+			Draw.AnswerPage.ShortAnswerQuestion("下面这段代码，分配了多少个新的堆空间？\nstring str = null;\nstr = \"123\";\nstring str2 = str;\nstr2 = \"321\";\nstr2 += \"123\";", "3");
+			#endregion
+
+			#region 习题 5 | 
+			
 			#endregion
 
 			Draw.Globe.EndsPage();
